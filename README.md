@@ -155,6 +155,45 @@
             }
         ]
     },
+        "Captiane_williw": {
+        "Type": "why am i here",
+        "Image": "rbxassetid://129894439823571",
+        "Rarity": "LuckyFinder",
+        "PlacePrice": 200,
+        "Offset": 0.65,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 800,
+                "Range": 28,
+                "Damage": 750,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1200,
+                "Range": 30,
+                "Damage": 1250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 2000,
+                "Range": 35,
+                "Damage": 2000,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
